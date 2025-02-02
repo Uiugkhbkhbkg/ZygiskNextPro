@@ -1,3 +1,14 @@
+# **Warning: This project contains malicious code. Do not use it!**
+
+## Important Notice:
+This project was originally created for recording and learning purposes, but has been tampered with by someone pretending to be official, who inserted malicious code into it. **Do not use this in any production environment or on personal devices**. The code may cause data loss, device damage, or leak personal information.
+
+## Malicious Behavior Details:
+- An attacker, pretending to be official, inserted harmful functionality into the code that could negatively affect your system.
+- This project contains significant security vulnerabilities. Using this code puts your device at risk of unknown issues.
+- The modified version of this project records this malicious behavior, warning others not to download or use this version.
+
+**If you've attempted to use this project, please stop immediately and remove it from your system.**
 # Zygisk Next Pro
 
 Standalone implementation of Zygisk, providing Zygisk API support for KernelSU. A replacement of Magisk's built-in Zygisk and DenyList.
