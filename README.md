@@ -2,7 +2,7 @@
 
 ## Important Notice:
 This project was originally tampered with by an individual pretending to be official, who inserted malicious code into it. I have simply forked this repository to serve as a warning. **Do not use this in any production environment or on personal devices**. The code may cause data loss, device damage, or leak personal information.
-
+Dangerous content has been deleted. If you see the module in other places, you should immediately warn them and ask them to delete it.
 ## Malicious Behavior Details:
 - An individual posing as an official contributor inserted harmful functionality into the code that could negatively affect your system.
 - This project contains serious security risks. Using this code puts your device at risk of unknown issues.
